@@ -1,5 +1,5 @@
 ---
-name: research-paper-reading
+name: Research_SummarizeThePaper
 description: Read and summarize one or a small set of research papers from a DOI, URL, PDF, or supplied text. Use for paper explanations, critical summaries, and evidence extraction; use a literature-review workflow for systematic searches or publication-length reviews.
 ---
 
